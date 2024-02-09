@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @francisco-gumucio
+- 👀 I’m interested in Machine Learning Algorithms and I am currently researching Long Term Equal Improvability in decision-making models at the University of Arkansas.
+- 🌱 I’m currently learning how to apply deep neural networks to simulate interventions in causal models and apply GAN frameworks to generate time-series data.
+- You can email me at frangumu97@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I have lived in 7 cities and 4 countries.
